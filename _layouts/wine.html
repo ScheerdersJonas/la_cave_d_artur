@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<a href="{{ page.back_url | relative_url }}" class="back-link">← {{ page.back_label }}</a>
+
+<div class="wine-detail">
+  <p class="producer-label">{{ page.producer }}</p>
+  <h1>{{ page.title }}</h1>
+
+  <div class="wine-meta">
+    {% if page.region %}<span class="tag">{{ page.region }}</span>{% endif %}
+    {% if page.grape %}<span class="tag">{{ page.grape }}</span>{% endif %}
+    {% if page.year %}<span class="tag">{{ page.year }}</span>{% endif %}
+  </div>
+
+  <div class="wine-notes">
+    {{ content }}
+  </div>
+</div>

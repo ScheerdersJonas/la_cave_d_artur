@@ -1,0 +1,8 @@
+title: La Cave d'Artur
+baseurl: "/la_cave_d_artur"
+url: "https://ScheerdersJonas.github.io"
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - .gitignore

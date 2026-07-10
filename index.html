@@ -1,0 +1,28 @@
+---
+layout: default
+title: Tonight's Wines
+---
+
+<h1 class="landing-title">Tonight's Wines</h1>
+<p class="landing-subtitle">Explore the wines being served tonight.</p>
+
+<div class="category-grid">
+  <a href="{{ '/wines/white/' | relative_url }}" class="category-card white">
+    <div>
+      <h2>White Wines</h2>
+      <p>5 wines</p>
+    </div>
+  </a>
+  <a href="{{ '/wines/red/' | relative_url }}" class="category-card red">
+    <div>
+      <h2>Red Wines</h2>
+      <p>2 wines</p>
+    </div>
+  </a>
+  <a href="{{ '/wines/bubbles/' | relative_url }}" class="category-card bubbles">
+    <div>
+      <h2>Bubbles</h2>
+      <p>2 wines</p>
+    </div>
+  </a>
+</div>
