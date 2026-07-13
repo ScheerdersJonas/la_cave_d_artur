@@ -8,24 +8,8 @@ back_url: /wines/white/
 back_label: Witte Wijnen
 ---
 
-***Verschijning***
+**Verschijning** Helder en licht van intensiteit, met een citroengele kleur.
 
-**Helderheid:** Helder
-**Intensiteit:** Licht
-**Kleur:** Citroen
+**Neus** Schoon en medium(+) van intensiteit. Primaire aroma's van witte perzik, abrikoos, bergamot, citroen en natte leisteen.
 
-***Neus***
-
-    **Conditie:** Schoon
-    **Intensiteit:** Medium(+)
-    **Primair:** Witte perzik, abrikoos, bergamot, citroen, natte leisteen
-
-***Pallet***
-
-**Zoetheid:** Droog (trocken)
-    **Zuurgraad:** Hoog
-    **Alcohol:** Laag-Medium
-    **Body:** Licht-Medium
-    **Smaakintensiteit:** Medium(+)
-    **Smaken:** Witte perzik, citroen, bergamot, leisteen, mineraal
-    **Afdronk:** Lang
+**Pallet** Droog (trocken) met een hoge zuurgraad en laag-medium alcohol. Licht-medium van body en medium(+) van smaakintensiteit, met smaken van witte perzik, citroen, bergamot, leisteen en mineraal. Lange afdronk.

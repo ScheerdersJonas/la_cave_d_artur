@@ -8,25 +8,8 @@ back_url: /wines/bubbles/
 back_label: Bubbles
 ---
 
-**Verschijning**
+**Verschijning** Helder en licht van intensiteit, met een citroen-gouden kleur en fijne persistente belletjes.
 
-- **Helderheid:** Helder
-- **Intensiteit:** Licht
-- **Kleur:** Citroen-goud, met fijne persistente belletjes
+**Neus** Schoon en medium(+) van intensiteit. Primaire aroma's van groene appel, citroen en witte bloemen, aangevuld met secundaire tonen van brioche, amandel en gistlees.
 
-**Neus**
-
-- **Conditie:** Schoon
-- **Intensiteit:** Medium(+)
-- **Primair:** Groene appel, citroen, witte bloemen
-- **Secundair:** Brioche, amandel, gistlees
-
-**Pallet**
-
-- **Zoetheid:** Droog (brut)
-- **Zuurgraad:** Hoog
-- **Alcohol:** Medium
-- **Body:** Medium
-- **Smaakintensiteit:** Medium(+)
-- **Smaken:** Groene appel, citrus, witte bloemen, brioche, amandel
-- **Afdronk:** Lang
+**Pallet** Droog (brut) met een hoge zuurgraad en medium alcohol en body. Smaken van groene appel, citrus, witte bloemen, brioche en amandel, met een lange afdronk.

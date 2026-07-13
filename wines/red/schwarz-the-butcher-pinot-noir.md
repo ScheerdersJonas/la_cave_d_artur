@@ -8,25 +8,8 @@ back_url: /wines/red/
 back_label: Rode Wijnen
 ---
 
-**Verschijning**
+**Verschijning** Helder en licht van intensiteit, met een robijnen kleur.
 
-- **Helderheid:** Helder
-- **Intensiteit:** Licht
-- **Kleur:** Robijn
+**Neus** Schoon en medium van intensiteit. Primaire aroma's van rode kers, wilde aardbei, viooltje en lichte specerijen.
 
-**Neus**
-
-- **Conditie:** Schoon
-- **Intensiteit:** Medium
-- **Primair:** Rode kers, wilde aardbei, viooltje, lichte specerijen
-
-**Pallet**
-
-- **Zoetheid:** Droog
-- **Zuurgraad:** Medium(+)
-- **Tannines:** Medium(-)
-- **Alcohol:** Medium
-- **Body:** Licht-Medium
-- **Smaakintensiteit:** Medium
-- **Smaken:** Rode kers, aardbei, viooltje, subtiele specerijen
-- **Afdronk:** Medium
+**Pallet** Droog met een medium(+) zuurgraad en medium(-) tannines. Licht-medium van body en medium van smaakintensiteit, met smaken van rode kers, aardbei, viooltje en subtiele specerijen. Afdronk is medium.

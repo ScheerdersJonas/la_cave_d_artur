@@ -8,25 +8,8 @@ back_url: /wines/white/
 back_label: Witte Wijnen
 ---
 
-**Verschijning**
+**Verschijning** Helder en medium van intensiteit, met een citroen-gouden kleur.
 
-- **Helderheid:** Helder
-- **Intensiteit:** Medium
-- **Kleur:** Citroen-goud
+**Neus** Schoon en medium(+) van intensiteit. Primaire aroma's van rijpe perzik, abrikoos, witte bloesem en subtiele kruiden, met een fijne mineralige/fossiele tertiaire ondertoon afkomstig van de kalksteenbodem van Goriška Brda.
 
-**Neus**
-
-- **Conditie:** Schoon
-- **Intensiteit:** Medium(+)
-- **Primair:** Rijpe perzik, abrikoos, witte bloesem, subtiele kruiden
-- **Tertiair:** Fijne mineralige/fossiele ondertoon (kalksteenbodem Goriška Brda)
-
-**Pallet**
-
-- **Zoetheid:** Droog
-- **Zuurgraad:** Medium(+)
-- **Alcohol:** Medium
-- **Body:** Medium
-- **Smaakintensiteit:** Medium(+)
-- **Smaken:** Perzik, abrikoos, witte bloemen, subtiele kruiden, mineraal
-- **Afdronk:** Medium(+)
+**Pallet** Droog met een medium(+) zuurgraad en medium alcohol en body. Smaken van perzik, abrikoos, witte bloemen, subtiele kruiden en mineraal, met een medium(+) afdronk.

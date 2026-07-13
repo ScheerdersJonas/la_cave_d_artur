@@ -8,24 +8,8 @@ back_url: /wines/white/
 back_label: Witte Wijnen
 ---
 
-**Verschijning**
+**Verschijning** Helder en licht van intensiteit, met een citroengele kleur.
 
-- **Helderheid:** Helder
-- **Intensiteit:** Licht
-- **Kleur:** Citroen
+**Neus** Schoon en uitgesproken van intensiteit. Primaire aroma's van zwarte bessenbladeren, vlierbloesemsiroop, kruisbes, citruschil en vers gesneden gras.
 
-**Neus**
-
-- **Conditie:** Schoon
-- **Intensiteit:** Uitgesproken
-- **Primair:** Zwarte bessenbladeren, vlierbloesemsiroop, kruisbes, citruschil, vers gesneden gras
-
-**Pallet**
-
-- **Zoetheid:** Droog
-- **Zuurgraad:** Hoog
-- **Alcohol:** Medium
-- **Body:** Medium
-- **Smaakintensiteit:** Uitgesproken
-- **Smaken:** Kruisbes, vlierbloesemsiroop, citrus, bessenbladeren, mineraal
-- **Afdronk:** Lang
+**Pallet** Droog met een hoge zuurgraad en medium alcohol en body. De smaakintensiteit is uitgesproken met smaken van kruisbes, vlierbloesemsiroop, citrus, bessenbladeren en mineraal. Lange afdronk.
