@@ -8,25 +8,8 @@ back_url: /wines/bubbles/
 back_label: Bubbles
 ---
 
-**Verschijning**
+**Verschijning** Helder en licht van intensiteit, met een rozekleur en fijne aanhoudende belletjes.
 
-- **Helderheid:** Helder
-- **Intensiteit:** Licht
-- **Kleur:** Roze, met fijne aanhoudende belletjes
+**Neus** Schoon en medium(+) van intensiteit. Primaire aroma's van verse aardbei, framboos en rozenblad, aangevuld met secundaire tonen van brioche, verse room en gist.
 
-**Neus**
-
-- **Conditie:** Schoon
-- **Intensiteit:** Medium(+)
-- **Primair:** Verse aardbei, framboos, rozenblad
-- **Secundair:** Brioche, verse room, gistaroma's
-
-**Pallet**
-
-- **Zoetheid:** Droog (brut)
-- **Zuurgraad:** Hoog
-- **Alcohol:** Medium
-- **Body:** Medium
-- **Smaakintensiteit:** Medium(+)
-- **Smaken:** Aardbei, framboos, citrus, brioche
-- **Afdronk:** Medium(+)
+**Pallet** Droog (brut) met een hoge zuurgraad en medium alcohol en body. Smaken van aardbei, framboos, citrus en brioche, met een medium(+) afdronk.

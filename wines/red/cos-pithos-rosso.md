@@ -8,26 +8,8 @@ back_url: /wines/red/
 back_label: Rode Wijnen
 ---
 
-**Verschijning**
+**Verschijning** Helder en medium van intensiteit, met een robijnen kleur en paarse tonen.
 
-- **Helderheid:** Helder
-- **Intensiteit:** Medium
-- **Kleur:** Robijn met paarse tonen
+**Neus** Schoon en medium(+) van intensiteit. Primaire aroma's van verse kers, framboos, granaatappel en gedroogde kruiden, met een aardse secundaire ondertoon kenmerkend voor de terracotta amfoor-gisting.
 
-**Neus**
-
-- **Conditie:** Schoon
-- **Intensiteit:** Medium(+)
-- **Primair:** Verse kers, framboos, granaatappel, gedroogde kruiden
-- **Secundair:** Aardse ondertoon (kenmerkend voor terracotta amfoor-gisting)
-
-**Pallet**
-
-- **Zoetheid:** Droog
-- **Zuurgraad:** Medium(+)
-- **Tannines:** Medium
-- **Alcohol:** Medium
-- **Body:** Medium
-- **Smaakintensiteit:** Medium(+)
-- **Smaken:** Kers, granaatappel, gedroogde kruiden, aards, mineraal
-- **Afdronk:** Medium(+)
+**Pallet** Droog met een medium(+) zuurgraad, medium tannines en medium alcohol en body. Smaken van kers, granaatappel, gedroogde kruiden, aards en mineraal, met een medium(+) afdronk.

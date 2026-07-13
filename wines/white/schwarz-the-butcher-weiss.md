@@ -8,24 +8,8 @@ back_url: /wines/white/
 back_label: Witte Wijnen
 ---
 
-**Verschijning**
+**Verschijning** Helder en licht-medium van intensiteit, met een citroengele kleur.
 
-- **Helderheid:** Helder
-- **Intensiteit:** Licht-Medium
-- **Kleur:** Citroen
+**Neus** Schoon en medium van intensiteit. Primaire aroma's van citrusfruit, groene appel, witte bloemen en subtiele kruiden.
 
-**Neus**
-
-- **Conditie:** Schoon
-- **Intensiteit:** Medium
-- **Primair:** Citrusfruit, groene appel, witte bloemen, subtiele kruiden
-
-**Pallet**
-
-- **Zoetheid:** Droog
-- **Zuurgraad:** Medium(+)
-- **Alcohol:** Medium
-- **Body:** Medium
-- **Smaakintensiteit:** Medium
-- **Smaken:** Citrus, appel, witte bloemen, subtiele mineraliteit
-- **Afdronk:** Medium
+**Pallet** Droog met een medium(+) zuurgraad en medium alcohol en body. Smaakintensiteit is medium met smaken van citrus, appel, witte bloemen en subtiele mineraliteit. Afdronk is medium.
