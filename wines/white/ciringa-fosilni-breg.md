@@ -9,17 +9,20 @@ back_label: Witte Wijnen
 ---
 
 **Verschijning**
+
 - **Helderheid:** Helder
 - **Intensiteit:** Medium
 - **Kleur:** Citroen-goud
 
 **Neus**
+
 - **Conditie:** Schoon
 - **Intensiteit:** Medium(+)
 - **Primair:** Rijpe perzik, abrikoos, witte bloesem, subtiele kruiden
 - **Tertiair:** Fijne mineralige/fossiele ondertoon (kalksteenbodem Goriška Brda)
 
 **Pallet**
+
 - **Zoetheid:** Droog
 - **Zuurgraad:** Medium(+)
 - **Alcohol:** Medium

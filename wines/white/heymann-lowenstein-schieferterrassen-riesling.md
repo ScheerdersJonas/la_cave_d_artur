@@ -9,16 +9,19 @@ back_label: Witte Wijnen
 ---
 
 **Verschijning**
+
 - **Helderheid:** Helder
 - **Intensiteit:** Licht
 - **Kleur:** Citroen
 
 **Neus**
+
 - **Conditie:** Schoon
 - **Intensiteit:** Medium(+)
 - **Primair:** Witte perzik, abrikoos, bergamot, citroen, natte leisteen
 
 **Pallet**
+
 - **Zoetheid:** Droog (trocken)
 - **Zuurgraad:** Hoog
 - **Alcohol:** Laag-Medium
