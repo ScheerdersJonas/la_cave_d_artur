@@ -9,16 +9,19 @@ back_label: Witte Wijnen
 ---
 
 **Verschijning**
+
 - **Helderheid:** Helder
 - **Intensiteit:** Licht-Medium
 - **Kleur:** Citroen
 
 **Neus**
+
 - **Conditie:** Schoon
 - **Intensiteit:** Medium(+)
 - **Primair:** Groene appel, citroenschil, witte bloemen, vuursteen
 
 **Pallet**
+
 - **Zoetheid:** Droog
 - **Zuurgraad:** Hoog
 - **Alcohol:** Medium

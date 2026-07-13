@@ -9,16 +9,19 @@ back_label: Witte Wijnen
 ---
 
 **Verschijning**
+
 - **Helderheid:** Helder
 - **Intensiteit:** Licht
 - **Kleur:** Citroen
 
 **Neus**
+
 - **Conditie:** Schoon
 - **Intensiteit:** Uitgesproken
 - **Primair:** Zwarte bessenbladeren, vlierbloesemsiroop, kruisbes, citruschil, vers gesneden gras
 
 **Pallet**
+
 - **Zoetheid:** Droog
 - **Zuurgraad:** Hoog
 - **Alcohol:** Medium

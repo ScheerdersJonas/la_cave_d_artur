@@ -9,16 +9,19 @@ back_label: Rode Wijnen
 ---
 
 **Verschijning**
+
 - **Helderheid:** Helder
 - **Intensiteit:** Licht
 - **Kleur:** Robijn
 
 **Neus**
+
 - **Conditie:** Schoon
 - **Intensiteit:** Medium
 - **Primair:** Rode kers, wilde aardbei, viooltje, lichte specerijen
 
 **Pallet**
+
 - **Zoetheid:** Droog
 - **Zuurgraad:** Medium(+)
 - **Tannines:** Medium(-)
