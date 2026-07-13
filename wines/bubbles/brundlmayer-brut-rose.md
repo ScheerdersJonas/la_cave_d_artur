@@ -8,4 +8,22 @@ back_url: /wines/bubbles/
 back_label: Bubbles
 ---
 
-*Tasting notes to be added.*
+**Verschijning**
+- **Helderheid:** Helder
+- **Intensiteit:** Licht
+- **Kleur:** Roze, met fijne aanhoudende belletjes
+
+**Neus**
+- **Conditie:** Schoon
+- **Intensiteit:** Medium(+)
+- **Primair:** Verse aardbei, framboos, rozenblad
+- **Secundair:** Brioche, verse room, gistaroma's
+
+**Pallet**
+- **Zoetheid:** Droog (brut)
+- **Zuurgraad:** Hoog
+- **Alcohol:** Medium
+- **Body:** Medium
+- **Smaakintensiteit:** Medium(+)
+- **Smaken:** Aardbei, framboos, citrus, brioche
+- **Afdronk:** Medium(+)
