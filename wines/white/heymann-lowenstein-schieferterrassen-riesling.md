@@ -8,19 +8,19 @@ back_url: /wines/white/
 back_label: Witte Wijnen
 ---
 
-**Verschijning**
+***Verschijning***
 
 - **Helderheid:** Helder
 - **Intensiteit:** Licht
 - **Kleur:** Citroen
 
-**Neus**
+***Neus***
 
 - **Conditie:** Schoon
 - **Intensiteit:** Medium(+)
 - **Primair:** Witte perzik, abrikoos, bergamot, citroen, natte leisteen
 
-**Pallet**
+***Pallet***
 
 - **Zoetheid:** Droog (trocken)
 - **Zuurgraad:** Hoog
